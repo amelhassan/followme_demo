@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="followme" type="followme_node" name="follow">
+  </node>
+</launch>

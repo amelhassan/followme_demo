@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "C:\\ws\\followme_ws\\devel\\include\\**",
+        "C:\\opt\\vcpkg\\installed\\x64-windows\\include\\**",
+        "C:\\opt\\ros\\melodic\\x64\\include\\**",
+        "C:\\opt\\rosdeps\\x64\\include\\**",
+        "C:\\ws\\followme_ws\\src\\followme\\include\\**",
+        "C:\\ws\\followme_ws\\src\\ros_msft_camera\\include\\**",
+        "C:\\ws\\followme_ws\\src\\ros_msft_onnx\\ros_msft_onnx\\include\\**",
+        "C:\\ws\\followme_ws\\src\\turtlebot3_simulations\\turtlebot3_fake\\include\\**",
+        "C:\\ws\\followme_ws\\src\\turtlebot3_simulations\\turtlebot3_gazebo\\include\\**",
+        "C:\\ws\\followme_ws\\src\\turtlebot3\\turtlebot3_slam\\include\\**",
+        "C:\\ws\\followme_ws\\src\\winml_tracker\\winml\\include\\**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
