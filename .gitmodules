@@ -1,0 +1,15 @@
+[submodule "src/ros_msft_camera"]
+	path = src/ros_msft_camera
+	url = https://github.com/ms-iot/ros_msft_camera.git
+[submodule "src/ros_msft_onnx"]
+	path = src/ros_msft_onnx
+	url = https://github.com/ms-iot/ros_msft_onnx.git
+[submodule "src/turtlebot3"]
+	path = src/turtlebot3
+	url = https://github.com/ROBOTIS-GIT/turtlebot3.git
+[submodule "src/turtlebot3_msgs"]
+	path = src/turtlebot3_msgs
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_msgs
+[submodule "src/turtlebot3_simulations"]
+	path = src/turtlebot3_simulations
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
